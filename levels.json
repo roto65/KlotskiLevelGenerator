@@ -1,0 +1,2064 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "mini": 81,
+            "board": "HAAIHAAIJBBKJNOKP@@Q"
+        },
+        {
+            "level": 2,
+            "mini": 70,
+            "board": "HAAIHAAINBBOJPQKJ@@K"
+        },
+        {
+            "level": 3,
+            "mini": 72,
+            "board": "@AA@HAAIHJKINJKOBBPQ"
+        },
+        {
+            "level": 4,
+            "mini": 60,
+            "board": "HAAIHAAINOPQJBBKJ@@K"
+        },
+        {
+            "level": 5,
+            "mini": 72,
+            "board": "NAAOHAAIHBBIJPQKJ@@K"
+        },
+        {
+            "level": 6,
+            "mini": 47,
+            "board": "HAANHAAOIBBJIK@JPK@Q"
+        },
+        {
+            "level": 7,
+            "mini": 54,
+            "board": "NAAOPAAQHIJKHIJK@BB@"
+        },
+        {
+            "level": 8,
+            "mini": 70,
+            "board": "NAAOHAAIHJKIPJKQ@BB@"
+        },
+        {
+            "level": 9,
+            "mini": 58,
+            "board": "HAANHAAOIJKPIJKQ@BB@"
+        },
+        {
+            "level": 10,
+            "mini": 39,
+            "board": "HAANHAAOIBBJIPKJ@QK@"
+        },
+        {
+            "level": 11,
+            "mini": 62,
+            "board": "HAANHAAOIBBPIJKQ@JK@"
+        },
+        {
+            "level": 12,
+            "mini": 32,
+            "board": "NAAOPAAQ@BB@HIJKHIJK"
+        },
+        {
+            "level": 13,
+            "mini": 62,
+            "board": "HAANHAAOBBPQICCJI@@J"
+        },
+        {
+            "level": 14,
+            "mini": 81,
+            "board": "HAAIHAAINJ@OPJ@QBBCC"
+        },
+        {
+            "level": 15,
+            "mini": 99,
+            "board": "NAAOHAAIHJ@IPJ@QBBCC"
+        },
+        {
+            "level": 16,
+            "mini": 73,
+            "board": "HAANHAAOIBBJICCJP@@Q"
+        },
+        {
+            "level": 17,
+            "mini": 83,
+            "board": "HAAIHAAIBBCCNJ@OPJ@Q"
+        },
+        {
+            "level": 18,
+            "mini": 102,
+            "board": "HAAIHAAINBBOPCCQ@DD@"
+        },
+        {
+            "level": 19,
+            "mini": 120,
+            "board": "NAAOHAAIHBBIPCCQ@DD@"
+        },
+        {
+            "level": 20,
+            "mini": 87,
+            "board": "NAAHOAAHIBBPICCQ@DD@"
+        },
+        {
+            "level": 21,
+            "mini": 40,
+            "board": "NAAOPAAQHIBBHICC@DD@"
+        },
+        {
+            "level": 22,
+            "mini": 103,
+            "board": "HAAIHAAIBBCCNDDOP@@Q"
+        },
+        {
+            "level": 23,
+            "mini": 98,
+            "board": "HAAIHAAINBBOCCDDP@@Q"
+        },
+        {
+            "level": 24,
+            "mini": 79,
+            "board": "HAANHAAOBBCCDDEEP@@Q"
+        },
+        {
+            "level": 25,
+            "mini": 77,
+            "board": "NAAOPAAQH@BBH@CCDDEE"
+        },
+        {
+            "level": 26,
+            "mini": 87,
+            "board": "HAANHAAOPBBQCCDD@EE@"
+        },
+        {
+            "level": 27,
+            "mini": 34,
+            "board": "NAAOPAAQBBCCDDEE@FF@"
+        },
+        {
+            "level": 28,
+            "mini": 84,
+            "board": "HAANHAAIBBJIKOJPK@@Q"
+        },
+        {
+            "level": 29,
+            "mini": 32,
+            "board": "NAAOPAAQ@BB@HIJKHIJK"
+        },
+        {
+            "level": 30,
+            "mini": 32,
+            "board": "NAAOHAAIHPQIJBBKJ@@K"
+        },
+        {
+            "level": 31,
+            "mini": 103,
+            "board": "NAAHOAAHBBIJPQIJ@CC@"
+        },
+        {
+            "level": 32,
+            "mini": 56,
+            "board": "NAAHOAAHIJBBIJPQ@CC@"
+        },
+        {
+            "level": 33,
+            "mini": 120,
+            "board": "NAAOHAAIHBBIPCCQ@DD@"
+        },
+        {
+            "level": 34,
+            "mini": 40,
+            "board": "NAAOPAAQHIBBHICC@DD@"
+        },
+        {
+            "level": 35,
+            "mini": 87,
+            "board": "HAANHAAOPBBQCCDD@EE@"
+        },
+        {
+            "level": 36,
+            "mini": 69,
+            "board": "NAAOHAAPHQBBCCDD@EE@"
+        },
+        {
+            "level": 37,
+            "mini": 84,
+            "board": "NAAHIAAHIJBBOJPKQ@@K"
+        },
+        {
+            "level": 38,
+            "mini": 54,
+            "board": "HBBIHNOI@AA@PAAQCCDD"
+        },
+        {
+            "level": 39,
+            "mini": 56,
+            "board": "HNOIHAAIPAAJKBBJK@@Q"
+        },
+        {
+            "level": 40,
+            "mini": 22,
+            "board": "NOAABBAACCDDEEFF@@PQ"
+        },
+        {
+            "level": 41,
+            "mini": 34,
+            "board": "NAAOPAAQHBBIHJKI@JK@"
+        },
+        {
+            "level": 42,
+            "mini": 36,
+            "board": "BBCCHAAIHAAINDDOP@@Q"
+        },
+        {
+            "level": 43,
+            "mini": 81,
+            "board": "HAAIHAAIJBBNJCCOP@@Q"
+        },
+        {
+            "level": 44,
+            "mini": 38,
+            "board": "HAAIHAAINOPQRBBST@@U"
+        },
+        {
+            "level": 45,
+            "mini": 65,
+            "board": "AAHIAAHIBBCCNDDOP@@Q"
+        },
+        {
+            "level": 46,
+            "mini": 42,
+            "board": "AABBAAHNIJHOIJPQ@CC@"
+        },
+        {
+            "level": 47,
+            "mini": 98,
+            "board": "NHIJOHIJBBPQCCAA@@AA"
+        },
+        {
+            "level": 48,
+            "mini": 0,
+            "board": "HAAIHAAIJKNLJKOLP@@Q"
+        },
+        {
+            "level": 49,
+            "mini": 103,
+            "board": "HAAIHAAIBBCCNDDOP@@Q"
+        },
+        {
+            "level": 50,
+            "mini": 28,
+            "board": "BBAACCAADDEEN@OHP@QH"
+        },
+        {
+            "level": 51,
+            "mini": 75,
+            "board": "AANHAAOHBBCCDDEEP@@Q"
+        },
+        {
+            "level": 52,
+            "mini": 71,
+            "board": "AAHIAAHIBBNOJKPQJK@@"
+        },
+        {
+            "level": 53,
+            "mini": 39,
+            "board": "AABBAACCHIDDHINOP@@Q"
+        },
+        {
+            "level": 54,
+            "mini": 105,
+            "board": "HINOHIJPBBJQCCAA@@AA"
+        },
+        {
+            "level": 55,
+            "mini": 138,
+            "board": "NOPHAAIHAAIJ@BBJ@QCC"
+        },
+        {
+            "level": 56,
+            "mini": 68,
+            "board": "NBBOHAAIHAAIPCCQ@DD@"
+        },
+        {
+            "level": 57,
+            "mini": 63,
+            "board": "NBBOHAAIHAAIP@@QCCDD"
+        },
+        {
+            "level": 58,
+            "mini": 15,
+            "board": "AABBAACC@@NOHIPJHIQJ"
+        },
+        {
+            "level": 59,
+            "mini": 105,
+            "board": "@HNOIHJPIQJ@BBAACCAA"
+        },
+        {
+            "level": 60,
+            "mini": 56,
+            "board": "AANOAABBCCDDPEE@FFQ@"
+        },
+        {
+            "level": 61,
+            "mini": 135,
+            "board": "AANHAA@H@IBBOICCPQDD"
+        },
+        {
+            "level": 62,
+            "mini": 112,
+            "board": "@HNIOH@IJPAAJQAABBCC"
+        },
+        {
+            "level": 63,
+            "mini": 19,
+            "board": "HINOHIJKAAJKAALP@QL@"
+        },
+        {
+            "level": 64,
+            "mini": 93,
+            "board": "@AAHNAAHIBBJIK@JOKPQ"
+        },
+        {
+            "level": 65,
+            "mini": 97,
+            "board": "AANOAABBCCP@QHDD@HEE"
+        },
+        {
+            "level": 66,
+            "mini": 102,
+            "board": "HIJNHIJOBBPQCCAA@@AA"
+        },
+        {
+            "level": 67,
+            "mini": 99,
+            "board": "@HIJ@HIJNOPQAABBAACC"
+        },
+        {
+            "level": 68,
+            "mini": 100,
+            "board": "HINJHIOJ@@PQBBAACCAA"
+        },
+        {
+            "level": 69,
+            "mini": 90,
+            "board": "BBHNOPHI@AAIQAAJCC@J"
+        },
+        {
+            "level": 70,
+            "mini": 109,
+            "board": "HNO@HIAA@IAAJPBBJCCQ"
+        },
+        {
+            "level": 71,
+            "mini": 111,
+            "board": "@NHOAAHIAAPIQBBJ@CCJ"
+        },
+        {
+            "level": 72,
+            "mini": 99,
+            "board": "@NOPAAHIAAHIBBJQCCJ@"
+        },
+        {
+            "level": 73,
+            "mini": 50,
+            "board": "@AANHAAOHPBBIQCCI@DD"
+        },
+        {
+            "level": 74,
+            "mini": 50,
+            "board": "AANOAAHPBBHQCCI@DDI@"
+        },
+        {
+            "level": 75,
+            "mini": 49,
+            "board": "@AAN@AAOPQHIJKHIJKBB"
+        },
+        {
+            "level": 76,
+            "mini": 74,
+            "board": "AAHIAAHINOBBPQJK@@JK"
+        },
+        {
+            "level": 77,
+            "mini": 50,
+            "board": "NBBOHCCIHAAIPAAQ@DD@"
+        },
+        {
+            "level": 78,
+            "mini": 131,
+            "board": "AANHAA@HO@BBPICCQIDD"
+        },
+        {
+            "level": 79,
+            "mini": 128,
+            "board": "AANOAAPH@@IHBBIJQCCJ"
+        },
+        {
+            "level": 80,
+            "mini": 69,
+            "board": "NAAHOAAHPBBIQCCI@DD@"
+        },
+        {
+            "level": 81,
+            "mini": 40,
+            "board": "BBCCHAAIHAAI@DD@NOPQ"
+        },
+        {
+            "level": 82,
+            "mini": 41,
+            "board": "BBAACCAADDHI@@HINOPQ"
+        },
+        {
+            "level": 83,
+            "mini": 22,
+            "board": "HINOHIPQJKBBJKAA@@AA"
+        },
+        {
+            "level": 84,
+            "mini": 102,
+            "board": "NAAOHAAPH@@IQBBICCDD"
+        },
+        {
+            "level": 85,
+            "mini": 131,
+            "board": "@NO@AAPHAAIHBBIJQCCJ"
+        },
+        {
+            "level": 86,
+            "mini": 121,
+            "board": "NAAO@AAHIBBHICC@PDDQ"
+        },
+        {
+            "level": 87,
+            "mini": 126,
+            "board": "NAAO@AAHPBBH@ICCQIDD"
+        },
+        {
+            "level": 88,
+            "mini": 133,
+            "board": "H@AAHNAABBIOCCIP@DDQ"
+        },
+        {
+            "level": 89,
+            "mini": 121,
+            "board": "NAAOHAA@HBBI@CCIPDDQ"
+        },
+        {
+            "level": 90,
+            "mini": 106,
+            "board": "AAHNAAH@OPBBI@CCIDDQ"
+        },
+        {
+            "level": 91,
+            "mini": 126,
+            "board": "AANOAAPHBBIH@QIJ@CCJ"
+        },
+        {
+            "level": 92,
+            "mini": 99,
+            "board": "HNOIH@PIJQAAJ@AABBCC"
+        },
+        {
+            "level": 93,
+            "mini": 130,
+            "board": "HNAAH@AABBOP@CCIQDDI"
+        },
+        {
+            "level": 94,
+            "mini": 90,
+            "board": "AA@@AANHOPQHBBIJCCIJ"
+        },
+        {
+            "level": 95,
+            "mini": 61,
+            "board": "NOPQ@BB@HAAIHAAICCDD"
+        },
+        {
+            "level": 96,
+            "mini": 125,
+            "board": "@AANOAAHBB@HIPCCIDDQ"
+        },
+        {
+            "level": 97,
+            "mini": 122,
+            "board": "AA@NAAOPHQBBHCCIDD@I"
+        },
+        {
+            "level": 98,
+            "mini": 109,
+            "board": "NAAO@AAPH@BBHCCIDDQI"
+        },
+        {
+            "level": 99,
+            "mini": 106,
+            "board": "@AA@HAAIHBBICCDDNOPQ"
+        },
+        {
+            "level": 100,
+            "mini": 104,
+            "board": "HAAIHAAIBB@NOPCCDD@Q"
+        },
+        {
+            "level": 101,
+            "mini": 101,
+            "board": "HAAIHAAINOBBPCC@DD@Q"
+        },
+        {
+            "level": 102,
+            "mini": 101,
+            "board": "AAHNAAHOIBBPICCQ@DD@"
+        },
+        {
+            "level": 103,
+            "mini": 99,
+            "board": "NOPHIAAHIAAQBBCC@DD@"
+        },
+        {
+            "level": 104,
+            "mini": 95,
+            "board": "H@NIHAAIOAA@BBCCPQDD"
+        },
+        {
+            "level": 105,
+            "mini": 88,
+            "board": "@AA@HAANHBBOPCCIQDDI"
+        },
+        {
+            "level": 106,
+            "mini": 94,
+            "board": "AAN@AAOPHQBBHCC@DDEE"
+        },
+        {
+            "level": 107,
+            "mini": 100,
+            "board": "NOHIPQHIAA@JAA@JBBCC"
+        },
+        {
+            "level": 108,
+            "mini": 94,
+            "board": "NHAAOHAABBIPCCIJQ@@J"
+        },
+        {
+            "level": 109,
+            "mini": 107,
+            "board": "NAAHOAAHPBBIQ@JICCJ@"
+        },
+        {
+            "level": 110,
+            "mini": 108,
+            "board": "HNIJH@IJ@AAOPAAQBBCC"
+        },
+        {
+            "level": 111,
+            "mini": 107,
+            "board": "NH@OPH@QIAAJIAAJBBCC"
+        },
+        {
+            "level": 112,
+            "mini": 100,
+            "board": "HI@JHI@JNAAOPAAQBBCC"
+        },
+        {
+            "level": 113,
+            "mini": 62,
+            "board": "HNBBHAA@OAAP@CCQDDEE"
+        },
+        {
+            "level": 114,
+            "mini": 72,
+            "board": "BB@H@AAHNAAOCCDDPEEQ"
+        },
+        {
+            "level": 115,
+            "mini": 73,
+            "board": "BBNOCCAAPHAA@HDDEEQ@"
+        },
+        {
+            "level": 116,
+            "mini": 81,
+            "board": "BBNOPHAA@HAACCQ@DDEE"
+        },
+        {
+            "level": 117,
+            "mini": 18,
+            "board": "NAAOPAAQRSTUVWXYZ@@["
+        },
+        {
+            "level": 118,
+            "mini": 28,
+            "board": "HAAIHAAINOPQRSTUV@@W"
+        },
+        {
+            "level": 119,
+            "mini": 27,
+            "board": "HAAIHAAIJNOPJQRST@@U"
+        },
+        {
+            "level": 120,
+            "mini": 40,
+            "board": "HAAIHAAINBBOPQRST@@U"
+        },
+        {
+            "level": 121,
+            "mini": 28,
+            "board": "HAAIHAAIJNOKJPQKR@@S"
+        },
+        {
+            "level": 122,
+            "mini": 46,
+            "board": "HAAIHAAIJBBNJOPQR@@S"
+        },
+        {
+            "level": 123,
+            "mini": 66,
+            "board": "HAA@HAA@NOPQBBCCDDEE"
+        },
+        {
+            "level": 124,
+            "mini": 135,
+            "board": "N@OHAAPHAAIJBBIJ@QCC"
+        },
+        {
+            "level": 125,
+            "mini": 53,
+            "board": "@BB@NCCOHAAIHAAIPDDQ"
+        },
+        {
+            "level": 126,
+            "mini": 54,
+            "board": "N@@OBBCCHAAIHAAIPDDQ"
+        },
+        {
+            "level": 127,
+            "mini": 109,
+            "board": "NAAHOAAHPQBBCCIJ@@IJ"
+        },
+        {
+            "level": 128,
+            "mini": 70,
+            "board": "AANOAAPQBB@@HIJKHIJK"
+        },
+        {
+            "level": 129,
+            "mini": 53,
+            "board": "NAA@OAA@BBCCDDEEFFGG"
+        },
+        {
+            "level": 130,
+            "mini": 18,
+            "board": "HAA@HAA@NOPQRSTUVWXY"
+        },
+        {
+            "level": 131,
+            "mini": 26,
+            "board": "HAA@HAA@NOPQBBCCRSTU"
+        },
+        {
+            "level": 132,
+            "mini": 28,
+            "board": "NAA@OAA@BBCCPQRSDDEE"
+        },
+        {
+            "level": 133,
+            "mini": 30,
+            "board": "@AA@NAAOPQRSTUVWBBCC"
+        },
+        {
+            "level": 134,
+            "mini": 19,
+            "board": "@@AABBAACCDDNOPQRSTU"
+        },
+        {
+            "level": 135,
+            "mini": 21,
+            "board": "@@AABBAACCDDEEFFNOPQ"
+        },
+        {
+            "level": 136,
+            "mini": 35,
+            "board": "@AA@NAAOPQRSBBCCDDEE"
+        },
+        {
+            "level": 137,
+            "mini": 24,
+            "board": "@@AABBAACCNODDPQEERS"
+        },
+        {
+            "level": 138,
+            "mini": 82,
+            "board": "@AA@NAAOPQBBHICCHIDD"
+        },
+        {
+            "level": 139,
+            "mini": 79,
+            "board": "HAA@HAA@BBNOCCDDEEPQ"
+        },
+        {
+            "level": 140,
+            "mini": 31,
+            "board": "NAA@OAA@BBCCPQDDEEFF"
+        },
+        {
+            "level": 141,
+            "mini": 71,
+            "board": "HAA@HAA@BBNOCCPQDDEE"
+        },
+        {
+            "level": 142,
+            "mini": 86,
+            "board": "NAA@OAA@BBCCDDHPEEHQ"
+        },
+        {
+            "level": 143,
+            "mini": 28,
+            "board": "@@AABBAACCDDNOEEPQFF"
+        },
+        {
+            "level": 144,
+            "mini": 28,
+            "board": "NAA@OAA@BBCCDDEEPQFF"
+        },
+        {
+            "level": 145,
+            "mini": 53,
+            "board": "NAA@OAA@PQBBCCDDEEFF"
+        },
+        {
+            "level": 146,
+            "mini": 22,
+            "board": "@@AABBAANOPQCCRSTUVW"
+        },
+        {
+            "level": 147,
+            "mini": 99,
+            "board": "HAA@HAA@NOBBIJPQIJCC"
+        },
+        {
+            "level": 148,
+            "mini": 34,
+            "board": "@AA@NAAOBBPQRSTUCCVW"
+        },
+        {
+            "level": 149,
+            "mini": 28,
+            "board": "@AA@NAAOPQRSTUVWXYBB"
+        },
+        {
+            "level": 150,
+            "mini": 62,
+            "board": "@AA@NAAOHIJKHIJKBBPQ"
+        },
+        {
+            "level": 151,
+            "mini": 21,
+            "board": "NAA@OAA@PQBBRSTUVWXY"
+        },
+        {
+            "level": 152,
+            "mini": 72,
+            "board": "NAA@OAA@PQBBHIJKHIJK"
+        },
+        {
+            "level": 153,
+            "mini": 20,
+            "board": "@@AABBAACCNOPQRSTUVW"
+        },
+        {
+            "level": 154,
+            "mini": 100,
+            "board": "HAA@HAA@NOBBIJCCIJPQ"
+        },
+        {
+            "level": 155,
+            "mini": 22,
+            "board": "@@AABBAACCNODDPQRSTU"
+        },
+        {
+            "level": 156,
+            "mini": 89,
+            "board": "HAA@HAA@NOPQIJBBIJCC"
+        },
+        {
+            "level": 157,
+            "mini": 27,
+            "board": "HAA@HAA@NOPQBBRSCCTU"
+        },
+        {
+            "level": 158,
+            "mini": 42,
+            "board": "@AA@NAAOPQBBCCRSTUDD"
+        },
+        {
+            "level": 159,
+            "mini": 30,
+            "board": "HAA@HAA@NOPQBBRSTUCC"
+        },
+        {
+            "level": 160,
+            "mini": 97,
+            "board": "HAA@HAA@IJNOIJBBCCPQ"
+        },
+        {
+            "level": 161,
+            "mini": 32,
+            "board": "HAA@HAA@NOBBCCPQRSTU"
+        },
+        {
+            "level": 162,
+            "mini": 96,
+            "board": "HAA@HAA@BBNOIJCCIJPQ"
+        },
+        {
+            "level": 163,
+            "mini": 39,
+            "board": "HAA@HAA@BBNOCCDDPQRS"
+        },
+        {
+            "level": 164,
+            "mini": 24,
+            "board": "NAA@OAA@PQRSBBCCTUDD"
+        },
+        {
+            "level": 165,
+            "mini": 35,
+            "board": "HAA@HAA@BBNOPQRSCCDD"
+        },
+        {
+            "level": 166,
+            "mini": 83,
+            "board": "NAA@OAA@BBCCPQHIDDHI"
+        },
+        {
+            "level": 167,
+            "mini": 29,
+            "board": "NAA@OAA@BBCCPQRSTUDD"
+        },
+        {
+            "level": 168,
+            "mini": 27,
+            "board": "@@AABBAACCDDEENOPQFF"
+        },
+        {
+            "level": 169,
+            "mini": 73,
+            "board": "HAA@HAA@BBNOPQCCDDEE"
+        },
+        {
+            "level": 170,
+            "mini": 95,
+            "board": "HAA@HAA@IJBBIJNOCCPQ"
+        },
+        {
+            "level": 171,
+            "mini": 108,
+            "board": "HAA@HAA@BBNOIJPQIJCC"
+        },
+        {
+            "level": 172,
+            "mini": 42,
+            "board": "@AA@NAAOPQBBRSCCDDTU"
+        },
+        {
+            "level": 173,
+            "mini": 70,
+            "board": "NAA@OAA@BBHICCHIPQDD"
+        },
+        {
+            "level": 174,
+            "mini": 32,
+            "board": "HAA@HAA@NOPQRSBBCCDD"
+        },
+        {
+            "level": 175,
+            "mini": 19,
+            "board": "@@AABBAACCDDEENOPQRS"
+        },
+        {
+            "level": 176,
+            "mini": 40,
+            "board": "@AA@NAAOBBPQRSCCTUDD"
+        },
+        {
+            "level": 177,
+            "mini": 85,
+            "board": "@AA@NAAOPQBBCCHIDDHI"
+        },
+        {
+            "level": 178,
+            "mini": 80,
+            "board": "HAA@HAA@BBNOCCDDPQEE"
+        },
+        {
+            "level": 179,
+            "mini": 96,
+            "board": "NBBHOPIHAAIJAA@J@QCC"
+        },
+        {
+            "level": 180,
+            "mini": 96,
+            "board": "@NBBAA@HAAIHOPIJQCCJ"
+        },
+        {
+            "level": 181,
+            "mini": 88,
+            "board": "AAN@AAOPHQBBHICC@IDD"
+        },
+        {
+            "level": 182,
+            "mini": 62,
+            "board": "NAAOPAAQHBBIHCCI@DD@"
+        },
+        {
+            "level": 183,
+            "mini": 90,
+            "board": "NAAOHAAIHPQIBBCC@DD@"
+        },
+        {
+            "level": 184,
+            "mini": 100,
+            "board": "NAAOHAAIHBBICCDD@PQ@"
+        },
+        {
+            "level": 185,
+            "mini": 87,
+            "board": "AA@HAANHBBIOJ@IPJCCQ"
+        },
+        {
+            "level": 186,
+            "mini": 77,
+            "board": "AA@HAA@HIBBNIOJPCCJQ"
+        },
+        {
+            "level": 187,
+            "mini": 45,
+            "board": "HAANHAAOIPJKIQJK@@BB"
+        },
+        {
+            "level": 188,
+            "mini": 38,
+            "board": "HAANHAAO@@BBIPJKIQJK"
+        },
+        {
+            "level": 189,
+            "mini": 40,
+            "board": "AANHAAOH@@BBPIJKQIJK"
+        },
+        {
+            "level": 190,
+            "mini": 42,
+            "board": "AANOAABB@@PHIJKHIJKQ"
+        },
+        {
+            "level": 191,
+            "mini": 51,
+            "board": "AA@NAA@OHIBBHIPJCCQJ"
+        },
+        {
+            "level": 192,
+            "mini": 49,
+            "board": "AA@NAA@OHPBBHQIJCCIJ"
+        },
+        {
+            "level": 193,
+            "mini": 65,
+            "board": "AA@NAA@OHPBBHCCIDDQI"
+        },
+        {
+            "level": 194,
+            "mini": 81,
+            "board": "AA@NAA@OHPBBHCCIQDDI"
+        },
+        {
+            "level": 195,
+            "mini": 53,
+            "board": "NHOPQH@@BBAACCAADDEE"
+        },
+        {
+            "level": 196,
+            "mini": 46,
+            "board": "NOAABBAAHPCCHQDD@@EE"
+        },
+        {
+            "level": 197,
+            "mini": 44,
+            "board": "BBAAHNAAHOCC@PDD@QEE"
+        },
+        {
+            "level": 198,
+            "mini": 38,
+            "board": "HNBBHOPQCCAADDAAEE@@"
+        },
+        {
+            "level": 199,
+            "mini": 33,
+            "board": "NOBBCCAAHPAAHQDD@@EE"
+        },
+        {
+            "level": 200,
+            "mini": 76,
+            "board": "HIAAHIAAN@O@JBBKJPQK"
+        },
+        {
+            "level": 201,
+            "mini": 73,
+            "board": "HAAIHAAIJNO@JBBK@PQK"
+        },
+        {
+            "level": 202,
+            "mini": 64,
+            "board": "HIJKHIJK@AA@NAAOBBPQ"
+        },
+        {
+            "level": 203,
+            "mini": 63,
+            "board": "H@AAHIAANIJ@OPJKBBQK"
+        },
+        {
+            "level": 204,
+            "mini": 62,
+            "board": "BBCCHINOHIDDAAEEAA@@"
+        },
+        {
+            "level": 205,
+            "mini": 44,
+            "board": "HBBIHJKINJK@AACCAA@@"
+        },
+        {
+            "level": 206,
+            "mini": 63,
+            "board": "AA@HAAIHNJI@KJBBKCC@"
+        },
+        {
+            "level": 207,
+            "mini": 72,
+            "board": "AANHAAIH@JI@KJBBK@CC"
+        },
+        {
+            "level": 208,
+            "mini": 75,
+            "board": "@@@NAAHIAAHIJKBBJKCC"
+        },
+        {
+            "level": 209,
+            "mini": 63,
+            "board": "@@@HAAIHAAINJKBBJKCC"
+        },
+        {
+            "level": 210,
+            "mini": 81,
+            "board": "H@NIHAAI@AA@JKBBJKCC"
+        },
+        {
+            "level": 211,
+            "mini": 77,
+            "board": "AA@@AABBNOHICCHIDDEE"
+        },
+        {
+            "level": 212,
+            "mini": 86,
+            "board": "@@@HAAIHAAINBBJKCCJK"
+        },
+        {
+            "level": 213,
+            "mini": 62,
+            "board": "@@@NHAAIHAAIJBBKJCCK"
+        },
+        {
+            "level": 214,
+            "mini": 76,
+            "board": "H@@@HAAINAAIBBJKCCJK"
+        },
+        {
+            "level": 215,
+            "mini": 92,
+            "board": "@NHIAAHIAA@JKBBJK@CC"
+        },
+        {
+            "level": 216,
+            "mini": 87,
+            "board": "BBNOCCAAPQAADDHI@@HI"
+        },
+        {
+            "level": 217,
+            "mini": 83,
+            "board": "AANOAABB@CCPHDDIH@QI"
+        },
+        {
+            "level": 218,
+            "mini": 17,
+            "board": "NAAOPAAQHRSIHTUIV@@W"
+        },
+        {
+            "level": 219,
+            "mini": 58,
+            "board": "HNBBHAAOPAAICCQI@DD@"
+        },
+        {
+            "level": 220,
+            "mini": 63,
+            "board": "AAHIAAHI@N@OJKBBJKPQ"
+        },
+        {
+            "level": 221,
+            "mini": 82,
+            "board": "NAAHIAAHIJOPQJ@@BBCC"
+        },
+        {
+            "level": 222,
+            "mini": 91,
+            "board": "HAANHAAIBBOICC@@PQDD"
+        },
+        {
+            "level": 223,
+            "mini": 52,
+            "board": "NOBBPHAA@HAA@QCCDDEE"
+        },
+        {
+            "level": 224,
+            "mini": 13,
+            "board": "NAAOPAAQH@@RHSTIUVWI"
+        },
+        {
+            "level": 225,
+            "mini": 100,
+            "board": "@HIJNHIJ@OPQAABBAACC"
+        },
+        {
+            "level": 226,
+            "mini": 102,
+            "board": "NOH@PQHIAAJIAAJ@BBCC"
+        },
+        {
+            "level": 227,
+            "mini": 116,
+            "board": "AA@HAANH@OIPBBIJCCQJ"
+        },
+        {
+            "level": 228,
+            "mini": 18,
+            "board": "NOPQRAASTAAUVWXY@BB@"
+        },
+        {
+            "level": 229,
+            "mini": 13,
+            "board": "NBBOHAAIHAAIJPQKJ@@K"
+        },
+        {
+            "level": 230,
+            "mini": 21,
+            "board": "NAAOHAAIHP@IJQRKJ@SK"
+        },
+        {
+            "level": 231,
+            "mini": 92,
+            "board": "@AA@HAAIHNOIPBBQCCDD"
+        },
+        {
+            "level": 232,
+            "mini": 97,
+            "board": "AANHAAIH@OIJBBPJ@CCQ"
+        },
+        {
+            "level": 233,
+            "mini": 19,
+            "board": "NAAOHAAPHQRSITUJI@@J"
+        },
+        {
+            "level": 234,
+            "mini": 69,
+            "board": "@BBNHAAOHAA@IJCCIJPQ"
+        },
+        {
+            "level": 235,
+            "mini": 69,
+            "board": "HINOHIBBJAA@JAAP@CCQ"
+        },
+        {
+            "level": 236,
+            "mini": 97,
+            "board": "NO@PAAHIAAHIBB@JCCQJ"
+        },
+        {
+            "level": 237,
+            "mini": 99,
+            "board": "NOH@AAHPAAIJBBIJCC@Q"
+        },
+        {
+            "level": 238,
+            "mini": 25,
+            "board": "AABBAANO@PQ@HIJKHIJK"
+        },
+        {
+            "level": 239,
+            "mini": 100,
+            "board": "NHI@OHIPAAJQAAJ@BBCC"
+        },
+        {
+            "level": 240,
+            "mini": 132,
+            "board": "H@AAHNAABBOICCPI@QDD"
+        },
+        {
+            "level": 241,
+            "mini": 77,
+            "board": "HIJNHIJOAABBAA@@CCPQ"
+        },
+        {
+            "level": 242,
+            "mini": 78,
+            "board": "BBNOAA@@AACCHIJPHIJQ"
+        },
+        {
+            "level": 243,
+            "mini": 90,
+            "board": "AAH@AAH@NIBBJIOKJPQK"
+        },
+        {
+            "level": 244,
+            "mini": 39,
+            "board": "HINOHIAAPQAAJKBBJK@@"
+        },
+        {
+            "level": 245,
+            "mini": 38,
+            "board": "HI@@HIBBNOAAJKAAJKPQ"
+        },
+        {
+            "level": 246,
+            "mini": 70,
+            "board": "@HINJHIOJAAPKAA@KQBB"
+        },
+        {
+            "level": 247,
+            "mini": 73,
+            "board": "AANHAAIHJOIPJKBB@KQ@"
+        },
+        {
+            "level": 248,
+            "mini": 68,
+            "board": "NAAHIAAHIJKO@JK@PQBB"
+        },
+        {
+            "level": 249,
+            "mini": 100,
+            "board": "HAAIHAAIBBCC@NO@DDPQ"
+        },
+        {
+            "level": 250,
+            "mini": 22,
+            "board": "AAN@AAOPQRSTUVWXYZ[@"
+        },
+        {
+            "level": 251,
+            "mini": 80,
+            "board": "AAHIAAHIJNO@JPQ@BBCC"
+        },
+        {
+            "level": 252,
+            "mini": 7,
+            "board": "HI@JHI@JKLAAKLAANOPQ"
+        },
+        {
+            "level": 253,
+            "mini": 37,
+            "board": "NHIOJHIKJPQKAA@@AABB"
+        },
+        {
+            "level": 254,
+            "mini": 47,
+            "board": "BBCC@NO@HAAIHAAIPDDQ"
+        },
+        {
+            "level": 255,
+            "mini": 57,
+            "board": "HNOIHAAIJAAPJBBK@@QK"
+        },
+        {
+            "level": 256,
+            "mini": 67,
+            "board": "@NO@HBBIHAAIPAAQCCDD"
+        },
+        {
+            "level": 257,
+            "mini": 107,
+            "board": "NAAOHAA@HIBBJIPQJCC@"
+        },
+        {
+            "level": 258,
+            "mini": 117,
+            "board": "@HNOPHAAIJAAIJBBCCQ@"
+        },
+        {
+            "level": 259,
+            "mini": 11,
+            "board": "BBCCHNAAHOAAIPQRI@@S"
+        },
+        {
+            "level": 260,
+            "mini": 23,
+            "board": "NAA@OAA@BBCCDDEEFFPQ"
+        },
+        {
+            "level": 261,
+            "mini": 29,
+            "board": "NAA@OAA@BBPQHIJKHIJK"
+        },
+        {
+            "level": 262,
+            "mini": 29,
+            "board": "NAAOHAAIH@@IJPQKJBBK"
+        },
+        {
+            "level": 263,
+            "mini": 41,
+            "board": "HNBBHAAOIAAPIJ@K@JQK"
+        },
+        {
+            "level": 264,
+            "mini": 47,
+            "board": "NAA@OAA@BBCCPHDDQHEE"
+        },
+        {
+            "level": 265,
+            "mini": 59,
+            "board": "NAA@OAAPHBBQH@IJCCIJ"
+        },
+        {
+            "level": 266,
+            "mini": 61,
+            "board": "HNOIHAAIJAAKJBBKPQ@@"
+        },
+        {
+            "level": 267,
+            "mini": 113,
+            "board": "AANHAAIH@OIP@BBJCCQJ"
+        },
+        {
+            "level": 268,
+            "mini": 33,
+            "board": "@AA@NAAOPHQRSHTUVBBW"
+        },
+        {
+            "level": 269,
+            "mini": 57,
+            "board": "AA@HAANHOBBPQIJRSIJ@"
+        },
+        {
+            "level": 270,
+            "mini": 43,
+            "board": "@AA@HAAIHBBINOPQRSTU"
+        },
+        {
+            "level": 271,
+            "mini": 16,
+            "board": "HBBNHAAIJAAIJOKP@QK@"
+        },
+        {
+            "level": 272,
+            "mini": 71,
+            "board": "BBAAHNAAHICC@IJOP@JQ"
+        },
+        {
+            "level": 273,
+            "mini": 103,
+            "board": "N@HIAAHIAA@JBBOJPQCC"
+        },
+        {
+            "level": 274,
+            "mini": 103,
+            "board": "N@@HAAIHAAIJBBOJPQCC"
+        },
+        {
+            "level": 275,
+            "mini": 31,
+            "board": "NAA@OAA@BBCCHIPQHIDD"
+        },
+        {
+            "level": 276,
+            "mini": 30,
+            "board": "HBBNHAAIJAAIJKOP@KQ@"
+        },
+        {
+            "level": 277,
+            "mini": 66,
+            "board": "@HNIJH@IJAAOKAAPKQBB"
+        },
+        {
+            "level": 278,
+            "mini": 55,
+            "board": "HINOHIAAPQAAJBBKJ@@K"
+        },
+        {
+            "level": 279,
+            "mini": 44,
+            "board": "HAANHAAIBBOIJ@PKJ@QK"
+        },
+        {
+            "level": 280,
+            "mini": 88,
+            "board": "HAA@HAANBBIJK@IJKOPQ"
+        },
+        {
+            "level": 281,
+            "mini": 75,
+            "board": "@AAHIAAHIBBJ@KNJOKPQ"
+        },
+        {
+            "level": 282,
+            "mini": 59,
+            "board": "BBAAHIAAHICCDDNOEE@@"
+        },
+        {
+            "level": 283,
+            "mini": 55,
+            "board": "@NO@BBCCHAAIHAAIPDDQ"
+        },
+        {
+            "level": 284,
+            "mini": 39,
+            "board": "NOPQAAHIAAHIBBJK@@JK"
+        },
+        {
+            "level": 285,
+            "mini": 41,
+            "board": "@@HIBBHIAAJKAAJKNOPQ"
+        },
+        {
+            "level": 286,
+            "mini": 58,
+            "board": "AABBAANHIO@HIPCCDDQ@"
+        },
+        {
+            "level": 287,
+            "mini": 87,
+            "board": "AA@@AANHIOPHIQBBCCDD"
+        },
+        {
+            "level": 288,
+            "mini": 45,
+            "board": "AABBAACCHNOIHDDIP@@Q"
+        },
+        {
+            "level": 289,
+            "mini": 45,
+            "board": "AABBAACCHNOIH@@IPDDQ"
+        },
+        {
+            "level": 290,
+            "mini": 86,
+            "board": "NOAA@@AAHPBBHCCIDDQI"
+        },
+        {
+            "level": 291,
+            "mini": 123,
+            "board": "@AA@NAAOHBBIHCCIPDDQ"
+        },
+        {
+            "level": 292,
+            "mini": 42,
+            "board": "NBBHIAAHIAAJOCCJ@PQ@"
+        },
+        {
+            "level": 293,
+            "mini": 27,
+            "board": "BBAACCAADDEENOP@@QFF"
+        },
+        {
+            "level": 294,
+            "mini": 36,
+            "board": "BBAACCAADDN@OEE@PQFF"
+        },
+        {
+            "level": 295,
+            "mini": 38,
+            "board": "BBAACCAANHOIPHQI@@DD"
+        },
+        {
+            "level": 296,
+            "mini": 36,
+            "board": "AABBAACCDDNO@HEE@HPQ"
+        },
+        {
+            "level": 297,
+            "mini": 60,
+            "board": "HAAIHAAINJKOPJKQ@BB@"
+        },
+        {
+            "level": 298,
+            "mini": 44,
+            "board": "@NO@BBPQAACCAAHIDDHI"
+        },
+        {
+            "level": 299,
+            "mini": 44,
+            "board": "BBHIAAHIAACCDDNO@PQ@"
+        },
+        {
+            "level": 300,
+            "mini": 44,
+            "board": "BBHIAAHIAACCDDNOPQ@@"
+        },
+        {
+            "level": 301,
+            "mini": 78,
+            "board": "HNAAHOAABBPQICCJI@@J"
+        },
+        {
+            "level": 302,
+            "mini": 28,
+            "board": "@@BBAAHNAAHIOJKIPJKQ"
+        },
+        {
+            "level": 303,
+            "mini": 28,
+            "board": "NHIOPHIJAAKJAAKQ@@BB"
+        },
+        {
+            "level": 304,
+            "mini": 34,
+            "board": "BBH@AAH@AAINOJIKPJQK"
+        },
+        {
+            "level": 305,
+            "mini": 38,
+            "board": "NOBBCCDDHAA@HAA@PQEE"
+        },
+        {
+            "level": 306,
+            "mini": 45,
+            "board": "NH@@OHBBAACCAAPQDDEE"
+        },
+        {
+            "level": 307,
+            "mini": 38,
+            "board": "BBCCAADDAANOH@EEHP@Q"
+        },
+        {
+            "level": 308,
+            "mini": 41,
+            "board": "@HBB@HCCAANOAAPQDDEE"
+        },
+        {
+            "level": 309,
+            "mini": 39,
+            "board": "BBCCAANOAAPQ@HDD@HEE"
+        },
+        {
+            "level": 310,
+            "mini": 26,
+            "board": "BBCCH@@NHAAOPAAQDDEE"
+        },
+        {
+            "level": 311,
+            "mini": 26,
+            "board": "BBCCNAAOHAAPH@@QDDEE"
+        },
+        {
+            "level": 312,
+            "mini": 41,
+            "board": "BBCCDDNOPAAQ@AA@EEFF"
+        },
+        {
+            "level": 313,
+            "mini": 38,
+            "board": "BBCC@AA@NAAODDPQEEFF"
+        },
+        {
+            "level": 314,
+            "mini": 36,
+            "board": "@AA@NAAHIOJHIKJPQKRS"
+        },
+        {
+            "level": 315,
+            "mini": 62,
+            "board": "AANOAABBCCH@DDHPQEE@"
+        },
+        {
+            "level": 316,
+            "mini": 40,
+            "board": "NO@@BBCCDDEEAAFFAAGG"
+        },
+        {
+            "level": 317,
+            "mini": 97,
+            "board": "AAN@AA@HIBBHICCOPQDD"
+        },
+        {
+            "level": 318,
+            "mini": 65,
+            "board": "HIBBHIAANJAAOJCC@PQ@"
+        },
+        {
+            "level": 319,
+            "mini": 65,
+            "board": "@NO@PHBBQHAAIJAAIJCC"
+        },
+        {
+            "level": 320,
+            "mini": 108,
+            "board": "AAH@AAHNOPBBICCQIDD@"
+        },
+        {
+            "level": 321,
+            "mini": 77,
+            "board": "AAH@AAHIN@OIJBBKJPQK"
+        },
+        {
+            "level": 322,
+            "mini": 62,
+            "board": "HIAAHIAAN@OJK@PJKBBQ"
+        },
+        {
+            "level": 323,
+            "mini": 38,
+            "board": "AABBAAHNOPHIJCCIJ@@Q"
+        },
+        {
+            "level": 324,
+            "mini": 38,
+            "board": "H@@NHBBIOPJIAAJQAACC"
+        },
+        {
+            "level": 325,
+            "mini": 41,
+            "board": "AABBAAHNCCHIODDIP@@Q"
+        },
+        {
+            "level": 326,
+            "mini": 41,
+            "board": "N@@OPBBHCCIHAAIQAADD"
+        },
+        {
+            "level": 327,
+            "mini": 26,
+            "board": "AABBAANHOPIHQJIK@J@K"
+        },
+        {
+            "level": 328,
+            "mini": 26,
+            "board": "@H@INHJIOPJKAAQKAABB"
+        },
+        {
+            "level": 329,
+            "mini": 71,
+            "board": "HNOPHIBBJI@QJ@AACCAA"
+        },
+        {
+            "level": 330,
+            "mini": 71,
+            "board": "BBAAH@AAHI@NJICCJOPQ"
+        },
+        {
+            "level": 331,
+            "mini": 75,
+            "board": "@HI@NHIOJBBPJQAACCAA"
+        },
+        {
+            "level": 332,
+            "mini": 75,
+            "board": "BBAAHNAAHCCOPIJQ@IJ@"
+        },
+        {
+            "level": 333,
+            "mini": 135,
+            "board": "NHOPIHAAI@AAJBBQJ@CC"
+        },
+        {
+            "level": 334,
+            "mini": 125,
+            "board": "NOAAHPAAHBB@IJQ@IJCC"
+        },
+        {
+            "level": 335,
+            "mini": 116,
+            "board": "HNAAHIAAOIP@JQBBJCC@"
+        },
+        {
+            "level": 336,
+            "mini": 134,
+            "board": "N@OHAAPHAAIJBBIJQ@CC"
+        },
+        {
+            "level": 337,
+            "mini": 106,
+            "board": "HAANHAAO@BB@IJPQIJCC"
+        },
+        {
+            "level": 338,
+            "mini": 117,
+            "board": "AAN@AAO@PBBQHCCIHDDI"
+        },
+        {
+            "level": 339,
+            "mini": 134,
+            "board": "NO@HAAPHAAIJBBIJQ@CC"
+        },
+        {
+            "level": 340,
+            "mini": 126,
+            "board": "NAAOHAAPH@BBCCIQDDI@"
+        },
+        {
+            "level": 341,
+            "mini": 137,
+            "board": "HNOPHIAAJIAAJBBQ@CC@"
+        },
+        {
+            "level": 342,
+            "mini": 131,
+            "board": "N@OPH@AAHIAAJIBBJCCQ"
+        },
+        {
+            "level": 343,
+            "mini": 70,
+            "board": "NBB@HIAAHIAAOJCCPJQ@"
+        },
+        {
+            "level": 344,
+            "mini": 70,
+            "board": "NHO@PHBBIJAAIJAAQCC@"
+        },
+        {
+            "level": 345,
+            "mini": 64,
+            "board": "HBB@HNAAOPAAIJCCIJQ@"
+        },
+        {
+            "level": 346,
+            "mini": 64,
+            "board": "HIN@HIBBOPAAJQAAJCC@"
+        },
+        {
+            "level": 347,
+            "mini": 34,
+            "board": "BBAA@HAANHOIJPKIJQK@"
+        },
+        {
+            "level": 348,
+            "mini": 43,
+            "board": "HNI@HOIJPKQJ@KAABBAA"
+        },
+        {
+            "level": 349,
+            "mini": 31,
+            "board": "BBN@AAHIAAHIJOKPJQK@"
+        },
+        {
+            "level": 350,
+            "mini": 31,
+            "board": "HNI@HOIPAAJKAAJKBBQ@"
+        },
+        {
+            "level": 351,
+            "mini": 71,
+            "board": "HNAAH@AAOIBB@IJKPQJK"
+        },
+        {
+            "level": 352,
+            "mini": 96,
+            "board": "NOAA@HAA@HBBCCIPDDIQ"
+        },
+        {
+            "level": 353,
+            "mini": 63,
+            "board": "HBBNHAAIOAAICCDD@PQ@"
+        },
+        {
+            "level": 354,
+            "mini": 75,
+            "board": "NAA@HAA@HBBOIPQJICCJ"
+        },
+        {
+            "level": 355,
+            "mini": 53,
+            "board": "BBN@OHCCIHAAIPAADDQ@"
+        },
+        {
+            "level": 356,
+            "mini": 53,
+            "board": "BBN@HOAAHIAAPICCDDQ@"
+        },
+        {
+            "level": 357,
+            "mini": 41,
+            "board": "BBNOCCDDPH@@QHAAEEAA"
+        },
+        {
+            "level": 358,
+            "mini": 48,
+            "board": "BBN@HOCCHPQ@AADDAAEE"
+        },
+        {
+            "level": 359,
+            "mini": 44,
+            "board": "NBBOHP@IHJ@IQJAACCAA"
+        },
+        {
+            "level": 360,
+            "mini": 44,
+            "board": "BBAANHAAIH@JIO@JPCCQ"
+        },
+        {
+            "level": 361,
+            "mini": 62,
+            "board": "AAHNAAH@IBBJIKOJPK@Q"
+        },
+        {
+            "level": 362,
+            "mini": 62,
+            "board": "AAHNAAH@OBBIJKPIJK@Q"
+        },
+        {
+            "level": 363,
+            "mini": 106,
+            "board": "AANOAAHIBBHIPCCJQ@@J"
+        },
+        {
+            "level": 364,
+            "mini": 91,
+            "board": "AA@HAANHOPIQBBIJ@CCJ"
+        },
+        {
+            "level": 365,
+            "mini": 102,
+            "board": "@N@HOIJHPIJQAABBAACC"
+        },
+        {
+            "level": 366,
+            "mini": 75,
+            "board": "HIN@HIO@BBJPAAJQAACC"
+        },
+        {
+            "level": 367,
+            "mini": 62,
+            "board": "HBB@HNCCOAAPIAAQI@DD"
+        },
+        {
+            "level": 368,
+            "mini": 62,
+            "board": "H@BBHAANOAAPIQCCIDD@"
+        },
+        {
+            "level": 369,
+            "mini": 60,
+            "board": "NBBHCCOHPIAA@IAADDQ@"
+        },
+        {
+            "level": 370,
+            "mini": 47,
+            "board": "NBBOHPCCHAA@QAAI@DDI"
+        },
+        {
+            "level": 371,
+            "mini": 83,
+            "board": "HAAIHAAIBBCCJNOPJ@@Q"
+        },
+        {
+            "level": 372,
+            "mini": 62,
+            "board": "BBAA@NAAOHPI@HJICCJQ"
+        },
+        {
+            "level": 373,
+            "mini": 65,
+            "board": "BBHN@IHJOIPJ@QAACCAA"
+        },
+        {
+            "level": 374,
+            "mini": 80,
+            "board": "HAANHAAIOBBIJCCPJ@@Q"
+        },
+        {
+            "level": 375,
+            "mini": 97,
+            "board": "HNOIHPQIJAA@JAA@BBCC"
+        },
+        {
+            "level": 376,
+            "mini": 70,
+            "board": "HAAIHAAIBBNOPJKQ@JK@"
+        },
+        {
+            "level": 377,
+            "mini": 82,
+            "board": "HAANHAAOBBPIQCCI@DD@"
+        },
+        {
+            "level": 378,
+            "mini": 37,
+            "board": "NAAOPAAQRBBHCCSH@DD@"
+        },
+        {
+            "level": 379,
+            "mini": 63,
+            "board": "NOPQHIBBHICCAADDAA@@"
+        },
+        {
+            "level": 380,
+            "mini": 55,
+            "board": "NHI@OHIPQ@BBAACCAADD"
+        },
+        {
+            "level": 381,
+            "mini": 41,
+            "board": "H@N@HIOJPIKJAAKQAABB"
+        },
+        {
+            "level": 382,
+            "mini": 28,
+            "board": "@AA@NAAOPHIQJHIKJRSK"
+        },
+        {
+            "level": 383,
+            "mini": 82,
+            "board": "NOAAPHAAIHBBIJQK@J@K"
+        },
+        {
+            "level": 384,
+            "mini": 76,
+            "board": "@NOHAAIHAAIJ@PKJBBKQ"
+        },
+        {
+            "level": 385,
+            "mini": 80,
+            "board": "AANHAA@HOBBIJK@IJKPQ"
+        },
+        {
+            "level": 386,
+            "mini": 81,
+            "board": "H@AAHNAAIJK@IJKOPQBB"
+        },
+        {
+            "level": 387,
+            "mini": 81,
+            "board": "HIAAHIAAJNOPJKBBQK@@"
+        },
+        {
+            "level": 388,
+            "mini": 70,
+            "board": "AA@HAANHIJBBIJ@KOPQK"
+        },
+        {
+            "level": 389,
+            "mini": 111,
+            "board": "AA@HAANHOPBB@QIJCCIJ"
+        },
+        {
+            "level": 390,
+            "mini": 110,
+            "board": "AAH@AAH@NOBBPQIJCCIJ"
+        },
+        {
+            "level": 391,
+            "mini": 109,
+            "board": "NAAOPAAHBB@HI@CCIQDD"
+        },
+        {
+            "level": 392,
+            "mini": 107,
+            "board": "@HAANHAA@BBICCOIPDDQ"
+        },
+        {
+            "level": 393,
+            "mini": 106,
+            "board": "@HAANHAAOPBBCCIQDDI@"
+        },
+        {
+            "level": 394,
+            "mini": 103,
+            "board": "H@@IHAAINAAOBBCCPDDQ"
+        },
+        {
+            "level": 395,
+            "mini": 101,
+            "board": "@AA@NAAOHBBIHCCIPQDD"
+        },
+        {
+            "level": 396,
+            "mini": 101,
+            "board": "AA@HAANHOPBBICC@IQDD"
+        },
+        {
+            "level": 397,
+            "mini": 69,
+            "board": "@@AABBAAHCCNHODDPQEE"
+        },
+        {
+            "level": 398,
+            "mini": 69,
+            "board": "NBBOHPAAH@AACCQ@DDEE"
+        },
+        {
+            "level": 399,
+            "mini": 68,
+            "board": "HNBBHAA@@AAOCCPQDDEE"
+        },
+        {
+            "level": 400,
+            "mini": 66,
+            "board": "BBAA@HAANH@OPQCCDDEE"
+        },
+        {
+            "level": 401,
+            "mini": 62,
+            "board": "NBBOCCDDPAAQHAA@H@EE"
+        },
+        {
+            "level": 402,
+            "mini": 72,
+            "board": "@HAANHAAIJBBIJK@OPKQ"
+        },
+        {
+            "level": 403,
+            "mini": 46,
+            "board": "NBBOPAAHIAAHIJQK@J@K"
+        },
+        {
+            "level": 404,
+            "mini": 41,
+            "board": "BBNHOAAHPAAIJQKIJ@K@"
+        },
+        {
+            "level": 405,
+            "mini": 40,
+            "board": "HNBBHAA@IAAJI@KJOPKQ"
+        },
+        {
+            "level": 406,
+            "mini": 21,
+            "board": "BBAACCAADDEEFFNOPQ@@"
+        },
+        {
+            "level": 407,
+            "mini": 52,
+            "board": "AANOAAPQBBCCDDEE@FF@"
+        },
+        {
+            "level": 408,
+            "mini": 17,
+            "board": "BBCCAAHIAAHIDDNOPQ@@"
+        },
+        {
+            "level": 409,
+            "mini": 32,
+            "board": "BBAAHIAAHICCN@@ODDPQ"
+        },
+        {
+            "level": 410,
+            "mini": 61,
+            "board": "@NO@AAHPAAHQBBCCDDEE"
+        },
+        {
+            "level": 411,
+            "mini": 72,
+            "board": "AANHAAIHBBIO@PCCDD@Q"
+        },
+        {
+            "level": 412,
+            "mini": 87,
+            "board": "AA@NAA@OBBPHICCHIQDD"
+        }
+    ]
+}
