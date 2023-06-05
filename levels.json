@@ -2059,6 +2059,46 @@
             "level": 412,
             "mini": 87,
             "board": "AA@NAA@OBBPHICCHIQDD"
-        }
+        },
+        {
+            "level": 413,
+            "mini": 77,
+            "board": "HIAAHIAABBNJOPQJCC@@"
+        },
+        {
+            "level": 414,
+            "mini": 110,
+            "board": "NO@HAAIHAAIJBBPJQCC@"
+        },
+        {
+            "level": 415,
+            "mini": 86,
+            "board": "AAHIAAHIBBCCNOJP@@JQ"
+        },
+        {
+            "level": 416,
+            "mini": 105,
+            "board": "HAANHAAOIBB@IJPQ@JCC"
+        },
+        {
+            "level": 417,
+            "mini": 107,
+            "board": "@HAANHAABBOPCCIQDDI"
+        },
+        {
+            "level": 418,
+            "mini": 99,
+            "board": "@@NOPHIJQHIJAABBAACC"
+        },	
+        {
+            "level": 419,
+            "mini": 124,
+            "board": "AANOAAPHBB@HQ@IJCCIJ"
+        },
+        {
+            "level": 420,
+            "mini": 131,
+            "board": "AANHAA@HO@BBPICCQIDD"
+	    }
     ]
 }
